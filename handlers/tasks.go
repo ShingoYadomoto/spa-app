@@ -3,7 +3,7 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/ShingoYadomoto/go-echo-vue-single-page-app/models"
+	"github.com/ShingoYadomoto/spa-app/models"
 	"github.com/labstack/echo"
 )
 
